@@ -2,7 +2,7 @@ Iris Species Classification
 
 Python project in Google Colab that shows how to build and test a machine learning model.
 
-* What it does
+What it does
 
 Loads the Iris flower data (150 flowers, 4 measurements each)  
 Splits the data into “train” (70%) and “test” (30%) sets  
